@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig: {
+    apiKey: 'AIzaSyApOghBrdoCUpcHnkjfUdWFxk3TeUn3CaA',
+    authDomain: 'gpsfirebase-c980f.firebaseapp.com',
+    projectId: 'gpsfirebase-c980f',
+    storageBucket: 'gpsfirebase-c980f.appspot.com',
+    messagingSenderId: '2400446408',
+    appId: '1:2400446408:web:de7b20030e12ac15d042fd',
+    measurementId: 'G-MS15MDL0LF'
+  }
 };
 
 /*

@@ -1,5 +1,7 @@
 {
   "name": "gpsFirebase",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
